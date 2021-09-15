@@ -16,7 +16,7 @@ int main()
 
   printf("Enter value to find\n");
   scanf("%d", &search);
-
+//hello world
   first = 0;
   last = n - 1;
   middle = (first+last)/2;
